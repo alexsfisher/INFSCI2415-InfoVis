@@ -1,2 +1,5 @@
 # INFSCI2415-InfoVis
-Final project visualization
+
+Run `Final.ipynb` in jupyter notebooks for interactive visualization.
+
+![MAG visualization](export/frame1.png)
